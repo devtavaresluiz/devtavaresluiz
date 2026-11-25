@@ -1,124 +1,137 @@
 
-## 👋 Oiii! Eu sou o Tavares Dev
+# 👋 Oiii! Eu sou o Tavares Dev
 
 <div align="center">
+
+  <p><strong>BACK-END DEVELOPER • DATABASE ENTHUSIAST</strong></p>
 
   <p>
-    <strong>Back-end Developer | Database Enthusiast</strong>
+    Estudante de desenvolvimento de sistemas na ETEC Santa Isabel.
+    <br>
+    Apaixonado por tecnologia, programação e criação de soluções.
+    <br>
+    Com foco em desenvolvimento Back-end, bancos de dados e automações.
   </p>
 
-  <p>
-    Desenvolvedor em formação pela ETEC Santa Isabel, apaixonado por tecnologia,
-    desenvolvimento de sistemas e bancos de dados.
-  </p>
-
 </div>
 
----
+<hr>
 
-## 📊 GitHub Stats
+<p align="center">
+  <sub><strong>GITHUB OVERVIEW</strong></sub>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=devtavaresluiz&show_icons=true&theme=dracula&hide_border=true&cache_seconds=3600"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <h3>🚀 Principais tecnologias</h3>
-      <br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <br><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-      <br><br>
-      <p><strong>Back-end • Lógica • Banco de dados</strong></p>
-    </td>
-  </tr>
-</table>
+<img
+  align="left"
+  width="52%"
+  src="https://github-readme-stats.vercel.app/api?username=devtavaresluiz&show_icons=true&theme=dracula&hide_border=true&hide=commits,prs,issues,contribs&hide_rank=true&cache_seconds=14400"
+  alt="GitHub Statistics"
+/>
 
----
+<div align="right">
+  <br>
+  <sub><strong>MAIN TECHNOLOGIES</strong></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <br><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <br><br>
+  <sub>Back-end • Database • Logic</sub>
+</div>
 
-## 💻 Tecnologias
+<br clear="both">
+
+<hr>
+
+<p align="center">
+  <sub><strong>TECHNOLOGIES</strong></sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,react,mysql&theme=dark" alt="Technologies"/>
+</p>
+
+<p align="center">
+  <sub><strong>TOOLS</strong></sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,github&theme=dark" alt="Development Tools"/>
+</p>
+
+<hr>
+
+<p align="center">
+  <sub><strong>ABOUT ME</strong></sub>
+</p>
 
 <div align="center">
 
-  <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="React Native" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  🎓 Ensino médio integrado ao curso técnico — ETEC Santa Isabel.
+
+  💻 Conhecimento intermediário em programação.
+
+  ⚙️ Foco em desenvolvimento Back-end.
+
+  🗄️ Interesse especial em bancos de dados e SQL.
+
+  📱 Desenvolvimento de aplicações mobile.
+
+  🤖 Automações e soluções tecnológicas.
 
 </div>
 
----
+<hr>
 
-## 🛠️ Ferramentas
+<p align="center">
+  <sub><strong>CURRENTLY LEARNING</strong></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React_Native-learning-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Android_Studio-learning-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-learning-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
 
-<div align="center">
+<hr>
 
-  <img align="center" alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Android Studio" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<p align="center">
+  <sub><strong>AREAS OF INTEREST</strong></sub>
+  <br><br>
+  Back-end Development • Database Management
+  <br>
+  Web Development • Mobile Development • Automation
+</p>
 
-</div>
+<hr>
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante da ETEC Santa Isabel.
-- 💻 Desenvolvedor com conhecimento intermediário em programação.
-- ⚙️ Foco em desenvolvimento Back-end.
-- 🗄️ Interesse especial em bancos de dados e SQL.
-- 📱 Interesse em desenvolvimento de aplicações mobile.
-- 🤖 Gosto de desenvolver automações e soluções tecnológicas.
-
----
-
-## 📚 Atualmente estudando
-
-- JavaScript
-- React Native
-- Android Studio
-- MySQL e bancos de dados
-
----
-
-## 🎯 Áreas de interesse
-
-- Desenvolvimento Back-end
-- Banco de dados e SQL
-- Desenvolvimento Web
-- Aplicações Mobile
-- Automações
-
----
-
-## 📈 Minhas contribuições
-
-<div align="center">
-
+<p align="center">
+  <sub><strong>CONTRIBUTIONS</strong></sub>
+  <br><br>
   <img
     src="https://raw.githubusercontent.com/devtavaresluiz/devtavaresluiz/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
+    alt="Snake Animation"
+    width="100%"
   />
+</p>
 
-</div>
-
----
+<br>
 
 <div align="center">
 
-  ### 💡 "Transformando ideias em código e conhecimento em soluções."
+  <sub>Transformando ideias em código e conhecimento em soluções.</sub>
 
-  **Tavares Dev © 2026**
+  <br><br>
 
+  <strong>TAVARES DEV © 2026</strong>
+
+</div>
+
+<br><br>
+
+<!-- PIXEL ART GIF - FOOTER -->
+
+<div align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg4aHc4c2ozZHk4c3YyaTJpbXJiN3M1bGs5b2lwa2hieGIwMTN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif"
+    width="100%"
+    alt="Pixel Art - Tavares Dev"
+  />
 </div>
