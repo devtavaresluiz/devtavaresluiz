@@ -123,33 +123,6 @@
 
 <hr>
 
-<p align="center">
-  <sub><strong>CONTRIBUTIONS</strong></sub>
-  <br><br>
-
-  <img
-    src="https://raw.githubusercontent.com/devtavaresluiz/devtavaresluiz/output/github-contribution-grid-snake.svg"
-    alt="Snake Animation"
-    width="100%"
-  />
-
-</p>
-
-<br>
-
-<div align="center">
-
-  <sub>Transformando ideias em código e conhecimento em soluções.</sub>
-
-  <br><br>
-
-  <strong>TAVARES DEV © 2026</strong>
-
-</div>
-
-<br><br>
-
-<!-- PIXEL ART GIF - FOOTER -->
 
 <div align="center">
 
@@ -160,3 +133,18 @@
   />
 
 </div>
+
+<div align="center">
+
+  <sub>Transformando ideias em código e conhecimento em soluções.</sub>
+
+  <br>
+
+  <strong>TAVARES DEV © 2026</strong>
+
+</div>
+
+<br><br>
+
+<!-- PIXEL ART GIF - FOOTER -->
+
